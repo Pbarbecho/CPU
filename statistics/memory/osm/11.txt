@@ -1,0 +1,3 @@
+
+10:56:42    kbmemfree kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty
+10:56:43     59280032   6384344      9,72    355240   2484468   6943516     10,42   3862984   1845504       204
